@@ -21,6 +21,7 @@ public class dizi {
 		System.out.print(item.get(1));
 		System.out.println(" ");
 		System.out.println(item.contains("red")? "evet var":"hayýr yok");
+		System.out.println("deneme");
 
 	}
 
